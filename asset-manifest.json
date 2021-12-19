@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/alfa-test/static/js/main.f2ef2508.js",
+    "static/js/787.b682b0e4.chunk.js": "/alfa-test/static/js/787.b682b0e4.chunk.js",
+    "index.html": "/alfa-test/index.html",
+    "main.f2ef2508.js.map": "/alfa-test/static/js/main.f2ef2508.js.map",
+    "787.b682b0e4.chunk.js.map": "/alfa-test/static/js/787.b682b0e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f2ef2508.js"
+  ]
+}
