@@ -5,6 +5,7 @@ import {RootState} from './store/store'
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import {Bar} from './components/Bar'
 import {Main} from './components/main'
+import './App.css'
 
 const theme = createTheme({
   palette: {
